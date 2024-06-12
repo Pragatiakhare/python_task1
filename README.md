@@ -15,10 +15,11 @@ Task Details
 
 -  My code consists of two distinct sections: a Grade Evaluation System and a Weather Suggestion System, both utilizing conditional statements. Let's summarize and refine the explanations for each:
 
-  =>Grade Evaluation System:
+      =>Grade Evaluation System:
       This system assesses student grades based on their marks in five subjects. It calculates the overall percentage of marks, checks if the student has passed all subjects, and then assigns a grade 
       accordingly. Grades range from A to E, with F indicating failure.
-  =>Weather Suggestion System:
+      
+      =>Weather Suggestion System:
       This system provides weather-based recommendations depending on the temperature and weather conditions entered by the user. It categorizes weather conditions into four types: sunny, rainy, 
       snowy, and cloudy. Based on this classification and the temperature input, it offers suggestions such as going to the beach, staying indoors, or going for a walk.
 
